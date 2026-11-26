@@ -1,5 +1,5 @@
 // Cambia este número por la cantidad total de fotografías.
-const totalFotos = 6;
+const totalFotos = 7;
 const extensiones = ['jpg', 'jpeg', 'png', 'webp', 'JPG', 'JPEG', 'PNG', 'WEBP'];
 function cargarFoto(img, numero) {
   let intento = 0;
