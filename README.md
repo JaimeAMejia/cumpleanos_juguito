@@ -1,0 +1,2 @@
+# Feliz cumpleaños
+Abre index.html en tu navegador. Coloca las fotos numeradas en img/ (1.jpg, 2.png, etc.). La foto 1 es la portada. Edita totalFotos en script.js para indicar cuántas tienes. Puedes personalizar los textos en index.html y los colores en styles.css. Para GitHub Pages, sube el contenido de esta carpeta a la raíz del repositorio y activa Pages desde Settings > Pages, seleccionando la rama y la carpeta raíz. No requiere instalación.
